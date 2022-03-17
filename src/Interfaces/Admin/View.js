@@ -131,7 +131,7 @@ export default function View() {
                     >
                       <CardMedia
                         component="img"
-                        height="230"
+                        height="205"
                         image={card.photo}
                       />
                       <CardContent>
